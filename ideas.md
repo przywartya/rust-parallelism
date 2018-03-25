@@ -16,3 +16,8 @@ Since Rastrum is a monitor, we are sure that only one Knight will be calling the
 
 Proposal of the Rastrum class:  
 ?
+
+
+https://stackoverflow.com/questions/31373255/how-do-i-share-a-mutable-object-between-threads
+
+https://rustbyexample.com/trait.html
